@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pfe_managment/Model/StudentModel.dart';
 
 class registerStudent extends StatefulWidget{
   @override
@@ -7,6 +8,10 @@ class registerStudent extends StatefulWidget{
   }
 
 }
+
+Future<StudentModel> registerStudents(
+
+)
 
 class registerStudentState extends State<registerStudent>{
   final minimumPadding = 5.0;
