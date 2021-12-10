@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pfe_managment/Screens/studentDrawer.dart';
 
 class getStudents extends StatefulWidget{
   @override
@@ -18,9 +19,14 @@ class getAllStudentsStates extends State<getStudents> {
           icon: Icon(
             Icons.arrow_back,
           ),
-          onPressed: () {  },
+          onPressed: () {
+            Navigator.push(context, MaterialPageRoute(builder: (context)=> studentDrawer()));
+          },
         ),
       ),
+      body: Container(
+        
+      ) ,
     );
   }
 
