@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244744896992",
+    "project_id": "exammobilemanel",
+    "storage_bucket": "exammobilemanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244744896992:android:027fa394e1e3ad694aeb85",
+        "android_client_info": {
+          "package_name": "com.example.manel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244744896992-r1gacvippbjq8o0spu08ivua764ojaeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAFGKGFtLzF6M768fDO0pmIRGBLoYIW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244744896992-r1gacvippbjq8o0spu08ivua764ojaeo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244744896992-rkc3l6d0ganuhk81iq97rtleotucd4ts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.manel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
