@@ -39,3 +39,7 @@ I used a student internship report managment case study as a dummy database Fire
 2. Run:
 
     flutter pub get
+
+**To Learn More About Firebase and Cloud Firestore**
+- https://firebase.flutter.dev/docs/overview/#initializing-flutterfire
+- https://firebase.flutter.dev/docs/firestore/usage/
